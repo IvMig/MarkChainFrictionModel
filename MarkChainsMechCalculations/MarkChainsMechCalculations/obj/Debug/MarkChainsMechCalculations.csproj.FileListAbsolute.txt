@@ -1,0 +1,54 @@
+F:\A-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe.config
+C:\Users\ivanm\OneDrive\Documents\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe.config
+C:\Users\elextom\OneDrive\Documents\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe.config
+C:\Users\ivanm\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe.config
+C:\Users\elextom\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe.config
+C:\Users\ivanm\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csprojResolveAssemblyReference.cache
+C:\Users\ivanm\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.Form1.resources
+C:\Users\ivanm\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.Properties.Resources.resources
+C:\Users\ivanm\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csproj.GenerateResource.Cache
+C:\Users\ivanm\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe
+C:\Users\ivanm\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.pdb
+C:\Users\ivanm\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.exe
+C:\Users\ivanm\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.pdb
+C:\Users\elextom\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.exe
+C:\Users\elextom\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.pdb
+C:\Users\elextom\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe
+C:\Users\elextom\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.pdb
+C:\Users\elextom\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csprojResolveAssemblyReference.cache
+C:\Users\elextom\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.Form1.resources
+C:\Users\elextom\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.Properties.Resources.resources
+C:\Users\elextom\OneDrive\Documents\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csproj.GenerateResource.Cache
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe.config
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.exe
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.pdb
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.pdb
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csprojResolveAssemblyReference.cache
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.Properties.Resources.resources
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csproj.GenerateResource.Cache
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe.config
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.exe
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.pdb
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.MainForm.resources
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.GeneralModelDataForm.resources
+C:\Users\ivanm\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.DestroyAnyDataForm.resources
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.pdb
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csprojResolveAssemblyReference.cache
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.MainForm.resources
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.GeneralModelDataForm.resources
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.DestroyAnyDataForm.resources
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.Properties.Resources.resources
+C:\Users\elextom\OneDrive\Documents\А-14-12\Научная работа\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csproj.GenerateResource.Cache
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe.config
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.exe
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.pdb
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.exe
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\bin\Debug\MarkChainsMechCalculations.pdb
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csprojResolveAssemblyReference.cache
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.MainForm.resources
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.GeneralModelDataForm.resources
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.DestroyAnyDataForm.resources
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.Properties.Resources.resources
+F:\A-14-12\НАУЧНАЯ РАБОТА\Трение Марк модель (бак работа)\Бакалаврская работа\Программа\MarkChainsMechCalculations\MarkChainsMechCalculations\obj\Debug\MarkChainsMechCalculations.csproj.GenerateResource.Cache
